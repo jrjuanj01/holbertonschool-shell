@@ -1,2 +1,2 @@
 #!/bin/bash
-expand PATH="$PATH/action"
+expand PATH="$PATH:/action"
